@@ -4,7 +4,7 @@ Projeto avaliativo desenvolvido na disciplina "Desenvolvimento Mobile" - UTFPR C
 ## Sobre o projeto 
 
 Este projeto busca organizar as suas vacinas de forma simples e prática. 
-O aplicativo MyHealph permite o usuário cadastrar,consultar, excluir e 
+O aplicativo MyHealth permite o usuário cadastrar,consultar, excluir e 
 inserir vacinas e suas informações como data do dia que vacinou e da 
 próxima dose; informações como nome e foto do comprovante de vacinação
 também é possível inserir.
