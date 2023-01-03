@@ -15,8 +15,7 @@ import {
     TouchableOpacity,
     TextInput,
     ActivityIndicator,
-    Modal, 
-    Pressable,
+    
 } from "react-native";  
 
 import { signInWithEmailAndPassword } from "firebase/auth";

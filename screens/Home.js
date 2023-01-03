@@ -1,13 +1,11 @@
-import { Text, Image } from 'react-native'
+import {  Image } from 'react-native'
 import { createDrawerNavigator } from '@react-navigation/drawer'
 import MyDrawer from '../components/MyDrawer'
-import MinhasVacinas from './MinhasVacinas'
-import {NavigationContainer} from '@react-navigation/native'
-import {createNativeStackNavigator} from '@react-navigation/native-stack'
+
 import HomeCard from './HomeCard'
-import NovaVacina from './NovaVacina'
+
 import ProximasVacinas from './ProximasVacinas'
-import EditarVacina from './EditarVacina'
+
 
 const Drawer = createDrawerNavigator()
 

@@ -36,7 +36,6 @@ import { useSelector } from "react-redux";
 
 //Redux
 import { useDispatch } from "react-redux";
-import { reducerSetLogin } from "../redux/loginSlice";
 import { reducerSetVacina } from "../redux/vacinaSlice";
 
 
