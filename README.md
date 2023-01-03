@@ -12,6 +12,7 @@ também é possível inserir.
 
 ## Tecnologias utilizadas 
 
+
 <table>
   <tr>
     <td> React Native </td>
@@ -20,7 +21,7 @@ também é possível inserir.
     <td> CSS </td>
     <td> HTML </td>
     <td> Firebase Firestore </td>
-    <td> Firebase Auth </td>]
+    <td> Firebase Auth </td>
     <td> Firebase Storage </td>
     <td> API - Google Maps </td>
   </tr>
