@@ -1,4 +1,4 @@
-# <div align="center" >MyHealphy <img width="30cm"  align="center" src="https://cdn-icons-png.flaticon.com/512/477/477369.png"/> <div/>
+# <div align="center" >MyHealth <img width="30cm"  align="center" src="https://cdn-icons-png.flaticon.com/512/477/477369.png"/> <div/>
 
 Projeto avaliativo desenvolvido na disciplina "Desenvolvimento Mobile" - UTFPR Cornélio Procópio.  Professor Henrique Y. Shishido
 
