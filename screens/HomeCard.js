@@ -11,42 +11,42 @@ import {
 } from 'react-native';
 
 import CardVacina from "../components/CardVacina";
-export const listaVacinas = [ 
-    {
-      id: 0,  
-      vacina: 'BCG',
-      data: '21/09/2022',
-      dose: 2,
-      urlImage: 'http://',
-      proximaVacina: '20/12/2022',
-    },
+// export const listaVacinas = [  --> LISTA TESTE PARA INSERÇÃO DE DADOS
+//     {
+//       id: 0,  
+//       vacina: 'BCG',
+//       data: '21/09/2022',
+//       dose: 2,
+//       urlImage: 'http://',
+//       proximaVacina: '20/12/2022',
+//     },
     
-    {
-      id: 1,  
-      vacina: 'Hepatite B',
-      data: '21/09/2022',
-      dose: 1,
-      urlImage: 'http://',
-      proximaVacina: '23/09/2022',
-    },
-    {
-        id: 2,
-        vacina: 'DTpa',
-        data: '21/09/2022',
-        dose: 3,
-        urlImage: 'http://',
-        proximaVacina: '20/12/2022',
-    },
-    {  
-        id: 3,
-        vacina: 'Sarampo',
-        data: '21/09/2022',
-        dose: 0,
-        urlImage: 'http://',
-        proximaVacina: '03/12/2022',
-    },
+//     {
+//       id: 1,  
+//       vacina: 'Hepatite B',
+//       data: '21/09/2022',
+//       dose: 1,
+//       urlImage: 'http://',
+//       proximaVacina: '23/09/2022',
+//     },
+//     {
+//         id: 2,
+//         vacina: 'DTpa',
+//         data: '21/09/2022',
+//         dose: 3,
+//         urlImage: 'http://',
+//         proximaVacina: '20/12/2022',
+//     },
+//     {  
+//         id: 3,
+//         vacina: 'Sarampo',
+//         data: '21/09/2022',
+//         dose: 0,
+//         urlImage: 'http://',
+//         proximaVacina: '03/12/2022',
+//     },
      
-]
+// ]
 
 //Redux 
 import { useSelector } from "react-redux";
