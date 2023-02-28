@@ -20,7 +20,6 @@ localização do local onde foi vacinado também é possível inserir.
     <td> Node Js </td>
     <td> Javascript </td>
     <td> CSS </td>
-    <td> HTML </td>
     <td> Firebase Firestore </td>
     <td> Firebase Auth </td>
     <td> Firebase Storage </td>
